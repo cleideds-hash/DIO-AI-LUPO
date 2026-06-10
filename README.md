@@ -1,4 +1,4 @@
- <h2 style="color:blue_heart;"><b>DIO - AI Lupo - Aplicada à Engenharia de Software</b></h2> 
+## DIO - AI Lupo - Aplicada á Engenharia de Software
  
 Projeto desenvolvido no Bootcamp Lupo (DIO PRO) para explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa, aplicada à Engenharia de Software e Agilidade.
 
