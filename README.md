@@ -76,4 +76,8 @@ Compilação dos principais conceitos de:
 - **Infográfico visual**: representação compacta das conexões entre Scrum, EBM, SWEBOK e IA.  
 - **Chat interativo**: recurso para explorar conceitos e tirar dúvidas.  
 - **Recursos de áudio**: apoio multimodal para reforçar a aprendizagem.  
-- **README estruturado**: documentação clara e alinhada ao NotebookLM.  
+- **README estruturado**: documentação clara e alinhada ao NotebookLM.
+
+## <h2 style="color:indigo;"><b>Autor</b></h2> ##
+<p><b>Cleide da Silva</b><br>
+ Publicado em Junho de 2026</p>
