@@ -37,7 +37,7 @@ Compilação dos principais conceitos de:
 - **Prompt**  
   Instrução ou comando dado à IA para gerar respostas, resumos ou conteúdos específicos.
 
-  **Backlog**  
+- **Backlog**  
   Lista priorizada de itens de trabalho que representam funcionalidades, melhorias ou correções a serem desenvolvidas em um produto.
   
 - **EBM (Evidence-Based Management)**  
