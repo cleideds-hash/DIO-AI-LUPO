@@ -61,7 +61,7 @@ Compilação dos principais conceitos de:
 - **Recursos de Áudio**  
     Materiais sonoros (**Podcast**) nos quais foi criada uma conversa entre duas vozes que complementam o aprendizado, permitindo absorver os conceitos de forma multimodal.
 
-### Conjunto de Prompts Reutilizáveis
+## Conjunto de Prompts Reutilizáveis
  Coleção de prompts otimizados para gerar novos conteúdos, resumos e explicações de forma consistente.
 - **Resumo de conceito**: “Explique [tema] em até 5 linhas.”  
 - **Glossário rápido**: “Defina [termo] em linguagem simples.”  
