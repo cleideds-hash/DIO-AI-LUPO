@@ -33,7 +33,7 @@ Compilação dos principais conceitos de:
 - **SWEBOK** → conhecimento em Engenharia de Software.  
 - **IA** → suporte inteligente para análise e organização.  
 
-### Glossário
+## Glossário
 - **Prompt**  
   Instrução ou comando dado à IA para gerar respostas, resumos ou conteúdos específicos.
 
