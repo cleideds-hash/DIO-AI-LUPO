@@ -193,6 +193,7 @@ Durante a exploração do ambiente, será possível acessar os documentos utiliz
 
 ## Autora
 **Cleide da Silva**
+
 Profissional de Tecnologia com experiência em Scrum Master (SM), Product Owner (PO), Análise de Negócios, Agilidade e Transformação Digital.
 Projeto desenvolvido no contexto do Bootcamp DIO PRO – AI Lupo, explorando a utilização do NotebookLM e de recursos de Inteligência Artificial aplicados à Engenharia de Software, Agilidade e Gestão do Conhecimento.
 
