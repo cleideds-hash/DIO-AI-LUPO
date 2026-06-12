@@ -22,16 +22,12 @@ Esses recursos demonstram como a IA pode apoiar diferentes estilos de aprendizag
 
 ## Curadoria de Fontes
 As fontes utilizadas foram:
-- SWEBOK v4 (Software Engineering Body of Knowledge).
-- SWEBOK traduzido para português, utilizado para facilitar consultas e comparações entre os idiomas.
-- Scrum Guide 2020, referência oficial do framework Scrum.
-- Evidence-Based Management (EBM) Guide, voltado à gestão baseada em evidências e geração de valor.
-
 - [SWEBOK v4](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
 - [Scrum Guide 2020](https://scrumguides.org)
+ 
 - [Evidence-Based Management Guide](https://www.scrum.org/resources/evidence-based-management-guide)
 
-
+ 
 
 
 ## Engenharia de Prompts e Cicatrizes
