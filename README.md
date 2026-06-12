@@ -1,21 +1,35 @@
-## DIO - AI Lupo - Aplicada á Engenharia de Software
+## DIO - AI Lupo - Aplicada à Engenharia de Software
  
 Projeto desenvolvido no Bootcamp Lupo (DIO PRO) para explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa, aplicada à Engenharia de Software e Agilidade.
 
 ## Contexto e Objetivos
-Este caderno temático foi criado no NotebookLM com foco em Engenharia de Software.  
+Este caderno temático foi desenvolvido utilizando o NotebookLM e fundamentado em referências reconhecidas da área de Engenharia de Software, Agilidade e Gestão de Produtos.
 Objetivos:
-- Explorar como IA pode apoiar na Engenharia de Software.  
-- Integrar práticas ágeis, gestão baseada em evidências e conhecimento.  
-- Criar recursos multimodais (texto, imagem, áudio, chat) para enriquecer a experiência do usuário.  
-- Entregar um guia visual e interativo para estudantes e profissionais.
+- Explorar como a Inteligência Artificial pode apoiar o aprendizado e a disseminação de conhecimentos em Engenharia de Software.
+- Integrar conceitos de desenvolvimento ágil, gestão baseada em evidências e boas práticas da engenharia de software.
+- Demonstrar o uso de recursos multimodais, incluindo textos, imagens, mapas mentais, infográfico, áudio e chat interativo.
+- Criar uma experiência de consulta mais dinâmica e acessível para estudantes, profissionais e equipes de tecnologia.
+- Validar o potencial do NotebookLM como ferramenta de apoio ao estudo, à pesquisa e ao compartilhamento de conhecimento.
+
+## Recursos Gerados com IA
+Durante o desenvolvimento do projeto, foram utilizados recursos nativos de Inteligência Artificial do NotebookLM para transformar o conteúdo das fontes em diferentes formatos de aprendizagem:
+- Chat interativo baseado nas fontes carregadas.
+- Mapas mentais para visualização dos conceitos.
+- Infográficos para representação visual do conhecimento.
+- Resumos e discussões em áudio gerados por IA.
+- Sínteses automáticas e organização temática dos conteúdos.
+Esses recursos demonstram como a IA pode apoiar diferentes estilos de aprendizagem, tornando o conhecimento mais acessível, visual e interativo.
 
 ## Curadoria de Fontes
-As principais fontes utilizadas foram:
-- **SWEBOK v4** (Software Engineering Body of Knowledge).  
-- Documentação oficial de **Scrum** e práticas ágeis.  
-- Materiais sobre **Evidence-Based Management (EBM)**.  
-- Recursos de IA aplicados ao ensino e organização de conhecimento.  
+As fontes utilizadas foram:
+- SWEBOK v4 (Software Engineering Body of Knowledge).
+- SWEBOK traduzido para português, utilizado para facilitar consultas e comparações entre os idiomas.
+- Scrum Guide 2020, referência oficial do framework Scrum.
+- Evidence-Based Management (EBM) Guide, voltado à gestão baseada em evidências e geração de valor.
+
+
+
+
 
 ## Engenharia de Prompts e Cicatrizes
 Durante o desenvolvimento, foram testados diferentes prompts estratégicos:
