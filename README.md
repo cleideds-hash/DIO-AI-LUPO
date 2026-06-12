@@ -24,32 +24,26 @@ Esses recursos demonstram como a IA pode apoiar diferentes estilos de aprendizag
 As fontes utilizadas foram:
 - [SWEBOK v4](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
 - [Scrum Guide 2020](https://scrumguides.org)
- - [Evidence-Based Management Guide](https://www.scrum.org/resources/evidence-based-management-guide)
-
- 
-
+- [Evidence-Based Management Guide](https://www.scrum.org/resources/evidence-based-management-guide)
 
 ## Engenharia de Prompts e Aprendizados
 Durante o desenvolvimento deste projeto, realizei diversos experimentos de interação com o NotebookLM para avaliar como diferentes estratégias de prompting influenciam a qualidade das respostas geradas.
+
 ## Exemplos de Prompts Utilizados
 
 ### Exemplo 1 – Evidence-Based Management (EBM)
 
 **Prompt Inicial**
-
 > Como o EBM utiliza o empirismo para alcançar objetivos estratégicos?
 
 **Resultado**
-
 - Explicação geral sobre empirismo e EBM.
 - Resposta adequada, porém com pouco detalhamento prático.
 
 **Prompt Refinado**
-
 > Com base no EBM Guide, explique como o empirismo apoia a tomada de decisão estratégica e apresente exemplos de métricas que podem ser utilizadas para medir a geração de valor.
 
 **Resultado**
-
 - Resposta mais estruturada.
 - Maior alinhamento com a fonte utilizada.
 - Inclusão de exemplos práticos e métricas de valor.
@@ -57,19 +51,15 @@ Durante o desenvolvimento deste projeto, realizei diversos experimentos de inter
 ### Exemplo 2 – Métricas e Inteligência Artificial
 
 **Prompt Inicial**
-
 > Quais métricas de Engenharia de Software podem ser analisadas com IA?
 
 **Resultado**
-
 - Apresentação de diversas métricas, porém de forma genérica.
 
 **Prompt Refinado**
-
 > Considerando as áreas de conhecimento do SWEBOK v4, quais métricas podem ser monitoradas com apoio da Inteligência Artificial para apoiar qualidade, produtividade e melhoria contínua?
 
 **Resultado**
-
 - Resposta mais contextualizada.
 - Melhor relação entre métricas, Engenharia de Software e IA.
 - Maior aderência ao objetivo do estudo.
@@ -77,25 +67,20 @@ Durante o desenvolvimento deste projeto, realizei diversos experimentos de inter
 ### Exemplo 3 – Atuação do Scrum Master
 
 **Prompt Inicial**
-
 > Como o Scrum Master deve atuar sem a figura do Product Owner?
 
 **Resultado**
-
 - Explicação geral sobre papéis e responsabilidades.
 
 **Prompt Refinado**
-
 > Com base no Scrum Guide 2020, quais práticas o Scrum Master pode adotar para apoiar a gestão do Product Backlog e a comunicação com stakeholders quando não existe um Product Owner formalmente definido?
 
 **Resultado**
-
 - Resposta mais específica.
 - Maior foco em situações reais enfrentadas pelas equipes.
 - Melhor direcionamento para tomada de decisão.
 
 ## Principais Aprendizados
-
 - A qualidade das respostas está diretamente relacionada à qualidade das fontes utilizadas.
 - Prompts específicos produzem respostas mais relevantes e contextualizadas.
 - O refinamento iterativo das perguntas melhora significativamente a qualidade dos resultados.
