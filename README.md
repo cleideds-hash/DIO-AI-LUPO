@@ -170,6 +170,7 @@ Além da construção de um repositório público para fins de portfólio, o pro
 
 ## Acesso ao Projeto no NotebookLM
 Deseja explorar o ambiente original onde este projeto foi desenvolvido?
+
 No NotebookLM, você poderá navegar pelo caderno temático "DIO - AI Lupo - Aplicada à Engenharia de Software" e conhecer na prática como os recursos de Inteligência Artificial foram utilizados para apoiar a aprendizagem em Engenharia de Software.
 Durante a exploração do ambiente, será possível acessar os documentos utilizados como fonte de conhecimento, interagir com o chat, experimentar diferentes estratégias de prompting e consultar os recursos gerados ao longo do projeto, incluindo mapas mentais, infográficos, resumos e conteúdos em áudio.
 
