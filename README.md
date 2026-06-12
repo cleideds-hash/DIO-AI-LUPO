@@ -140,13 +140,30 @@ Sua principal contribuição é promover a geração de valor baseada em evidên
 - **Empirismo**  
   Princípio baseado na observação, experimentação e aprendizado contínuo, amplamente utilizado no Scrum e no Evidence-Based Management para apoiar a tomada de decisões.
   
+### Prompts Reutilizáveis
+Os prompts abaixo podem ser reutilizados para revisão, aprofundamento e organização dos conhecimentos relacionados à Engenharia de Software, Scrum e Evidence-Based Management.
 
-## Conjunto de Prompts Reutilizáveis
- Coleção de prompts otimizados para gerar novos conteúdos, resumos e explicações de forma consistente.
-- **Resumo de conceito**: “Explique [tema] em até 5 linhas.”  
-- **Glossário rápido**: “Defina [termo] em linguagem simples.”  
-- **Comparação**: “Compare [conceito A] e [conceito B] destacando diferenças e semelhanças.”  
-- **Aplicação prática**: “Mostre como aplicar [tema] em um projeto real.” 
+#### Revisão de Engenharia de Software
+> Com base no SWEBOK v4, apresente um resumo dos principais conceitos da Engenharia de Software e suas áreas de conhecimento.
+
+#### Comparação entre Frameworks e Abordagens
+> Compare Scrum e Evidence-Based Management (EBM), destacando objetivos, benefícios, diferenças e aplicações práticas.
+
+#### Criação de Glossário
+> Com base nas fontes fornecidas, crie um glossário contendo os principais conceitos relacionados à Engenharia de Software, Scrum e EBM.
+
+#### Geração de Mapa Mental
+> Organize os principais conceitos estudados em formato de mapa mental hierárquico, destacando as relações entre Engenharia de Software, Scrum, EBM e Inteligência Artificial.
+
+#### Métricas e Tomada de Decisão
+> Explique como métricas e evidências podem apoiar a tomada de decisão em equipes ágeis e organizações orientadas a valor.
+
+#### Aplicação da Inteligência Artificial
+> Descreva como a Inteligência Artificial pode apoiar atividades relacionadas à Engenharia de Software, gestão do conhecimento e melhoria contínua.
+
+#### Preparação para Estudos e Revisões
+> Crie um plano de revisão contendo os principais tópicos estudados, destacando conceitos essenciais, perguntas frequentes e pontos de atenção para aprofundamento.
+
   
 ## Resultados
 - **Notebook tematico**: criado e publicado no NotebookLM.  
