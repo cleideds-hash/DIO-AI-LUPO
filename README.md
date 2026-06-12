@@ -199,5 +199,4 @@ Projeto desenvolvido no contexto do Bootcamp DIO PRO – AI Lupo, explorando a u
 
 📅 Publicado em junho de 2026
 
-🔗 LinkedIn: https://www.linkedin.com/in/https://www.linkedin.com/feed/
-
+🔗 LinkedIn: https://www.linkedin.com/in/cleide-silva/
