@@ -171,7 +171,7 @@ Além da construção de um repositório público para fins de portfólio, o pro
 ## Acesso ao Projeto no NotebookLM
 O caderno temático desenvolvido durante este projeto está disponível para consulta pública no NotebookLM:
 
-🔗 [Acessar Projeto no NotebookLM](COLE_AQUI_O_LINK)
+🔗 [Acessar Projeto no NotebookLM](https://notebooklm.google.com/notebook/49f6d679-4ef5-4dca-b4eb-f5a601359439)
 
 ## Autor
 **Cleide da Silva**  
