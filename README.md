@@ -88,18 +88,6 @@ Durante o desenvolvimento deste projeto, realizei diversos experimentos de inter
 - Documentar as tentativas realizadas facilita a compreensão do raciocínio utilizado para alcançar os resultados obtidos.
 
 
-
-
-
-
-
-
-- Pergunta inicial: “Como o EBM utiliza o empirismo para alcançar objetivos estratégicos?”  
-- Variações: “Quais métricas de Engenharia de Software podem ser analisadas com IA?”
-- Variações: "Como o SM deve atuar sem a figura do PO?"
-- Dificuldades encontradas: ajustes nos prompts para obter respostas mais específicas e evitar generalizações.  
-- Aprendizado: documentar cada tentativa ajuda a entender o raciocínio por trás dos resultados.
-
 ## Miniguia de Estudo (Entrega Final)
 ### Resumos Estruturados
 Compilação dos principais conceitos de:
