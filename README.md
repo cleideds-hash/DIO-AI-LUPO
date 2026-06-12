@@ -2,6 +2,20 @@
  
 Projeto desenvolvido no Bootcamp Lupo (DIO PRO) para explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa, aplicada à Engenharia de Software e Agilidade.
 
+## Índice
+
+- [Contexto e Objetivos](#contexto-e-objetivos)
+- [Recursos Gerados com IA](#recursos-gerados-com-ia)
+- [Curadoria de Fontes](#curadoria-de-fontes)
+- [Engenharia de Prompts e Aprendizados](#engenharia-de-prompts-e-aprendizados)
+- [Miniguia de Estudo](#miniguia-de-estudo)
+  - [Resumos Estruturados](#resumos-estruturados)
+  - [Glossário](#glossário)
+  - [Prompts Reutilizáveis](#prompts-reutilizáveis)
+- [Resultados](#resultados)
+- [Acesso ao Projeto no NotebookLM](#acesso-ao-projeto-no-notebooklm)
+- [Autora](#autora)
+
 ## Contexto e Objetivos
 Este caderno temático foi desenvolvido utilizando o NotebookLM e fundamentado em referências reconhecidas da área de Engenharia de Software, Agilidade e Gestão de Produtos.
 Objetivos:
