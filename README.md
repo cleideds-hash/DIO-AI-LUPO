@@ -89,9 +89,13 @@ Durante o desenvolvimento deste projeto, realizei diversos experimentos de inter
 
 ## Miniguia de Estudo 
 ### Resumos Estruturados
-Compilação dos principais conceitos de:
-- **Scrum** → práticas ágeis e colaboração.
-- 
+### Scrum (Scrum Guide 2020)
+O Scrum é um framework ágil utilizado para desenvolver, entregar e sustentar produtos complexos por meio de ciclos iterativos e incrementais.
+O Scrum Guide 2020 é a principal referência para a aplicação do framework, descrevendo seus papéis, eventos, artefatos e compromissos, além dos princípios que orientam sua utilização.
+O Scrum é estruturado em três papéis (Product Owner, Scrum Master e Developers), cinco eventos (Sprint, Planning, Daily Scrum, Review e Retrospective) e três artefatos (Product Backlog, Sprint Backlog e Increment).
+Sua principal contribuição é promover transparência, inspeção e adaptação contínua, favorecendo a colaboração entre equipes e a entrega frequente de valor aos usuários e stakeholders.
+
+ 
 - **EBM** → métricas e valor baseado em evidências.
 -  
 ### Engenharia de Software (SWEBOK v4)
