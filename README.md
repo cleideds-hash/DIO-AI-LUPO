@@ -87,13 +87,27 @@ Durante o desenvolvimento deste projeto, realizei diversos experimentos de inter
 - A validação das respostas junto às fontes originais aumenta a confiabilidade das informações.
 - Documentar as tentativas realizadas facilita a compreensão do raciocínio utilizado para alcançar os resultados obtidos.
 
-
-## Miniguia de Estudo (Entrega Final)
+## Miniguia de Estudo 
 ### Resumos Estruturados
 Compilação dos principais conceitos de:
-- **Scrum** → práticas ágeis e colaboração.  
-- **EBM** → métricas e valor baseado em evidências.  
-- **SWEBOK** → conhecimento em Engenharia de Software.  
+- **Scrum** → práticas ágeis e colaboração.
+- 
+- **EBM** → métricas e valor baseado em evidências.
+-  
+### Engenharia de Software (SWEBOK v4)
+A Engenharia de Software é a disciplina responsável pela aplicação sistemática de princípios, métodos e ferramentas para especificação, desenvolvimento, testes, implantação, operação e manutenção de software.
+O SWEBOK v4 (Software Engineering Body of Knowledge) é uma referência internacional que organiza e descreve as principais áreas de conhecimento da Engenharia de Software, abrangendo temas como requisitos, projeto de software, construção, testes, qualidade, manutenção, segurança e operações.
+
+
+Sua principal contribuição é fornecer uma visão estruturada das práticas, processos e conhecimentos necessários para o desenvolvimento de software com qualidade, confiabilidade e alinhamento às necessidades dos usuários e das organizações.
+- 
+A Engenharia de Software é a disciplina responsável pela aplicação sistemática de princípios, métodos e ferramentas para especificação, desenvolvimento, testes, implantação, operação e manutenção de software.
+O SWEBOK v4 organiza o conhecimento da área em diferentes domínios, abrangendo temas como requisitos, projeto de software, construção, testes, qualidade, manutenção, segurança e operações.
+Sua principal contribuição é fornecer uma visão estruturada das práticas e conhecimentos necessários para o desenvolvimento de software de qualidade.
+
+
+Sua principal contribuição é fornecer uma visão estruturada das práticas e conhecimentos necessários para o desenvolvimento de software de qualidade.
+- 
 - **IA** → suporte inteligente para análise e organização.  
 
 ## Glossário
