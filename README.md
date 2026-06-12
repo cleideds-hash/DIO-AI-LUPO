@@ -190,7 +190,14 @@ Durante a exploração do ambiente, será possível acessar os documentos utiliz
 
 🔗 [Acessar Projeto no NotebookLM](https://notebooklm.google.com/notebook/49f6d679-4ef5-4dca-b4eb-f5a601359439)
 
-## Autor
-**Cleide da Silva**  
-Publicado em junho de 2026.
+
+## Autora
+**Cleide da Silva**
+
+Profissional de Tecnologia com experiência em Scrum Master (SM), Product Owner (PO), Agilidade, Engenharia de Software, Gestão do Conhecimento e Transformação Digital.
+Projeto desenvolvido no contexto do Bootcamp DIO PRO – AI Lupo, explorando a utilização do NotebookLM e de recursos de Inteligência Artificial aplicados à Engenharia de Software, Agilidade e Gestão do Conhecimento.
+
+📅 Publicado em junho de 2026
+
+🔗 LinkedIn: https://www.linkedin.com/in/https://www.linkedin.com/feed/
 
