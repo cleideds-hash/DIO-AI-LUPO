@@ -164,17 +164,16 @@ Os prompts abaixo podem ser reutilizados para revisão, aprofundamento e organiz
 #### Preparação para Estudos e Revisões
 > Crie um plano de revisão contendo os principais tópicos estudados, destacando conceitos essenciais, perguntas frequentes e pontos de atenção para aprofundamento.
 
-  
 ## Resultados
-- **Notebook tematico**: criado e publicado no NotebookLM.  
-- **Repositório público**: como parte do portfólio profissional.  
-- **Material pronto**: para apoio ao aprendizado contínuos.
-- **MindMap Software**: mapa mental integrador da Engenharia de Software.  
-- **Infográfico visual**: representação compacta das conexões entre Scrum, EBM, SWEBOK e IA.  
-- **Chat interativo**: recurso para explorar conceitos e tirar dúvidas.  
-- **Recursos de áudio**: apoio multimodal para reforçar a aprendizagem.  
-- **README estruturado**: documentação clara e alinhada ao NotebookLM.
+Ao final do projeto foi possível consolidar conhecimentos sobre Engenharia de Software, Scrum e Evidence-Based Management por meio da utilização do NotebookLM e de recursos apoiados por Inteligência Artificial.
+Além da construção de um repositório público para fins de portfólio, o projeto resultou na criação de materiais de apoio aos estudos, incluindo resumos estruturados, glossário, prompts reutilizáveis, mapas mentais, infográficos e recursos de áudio, contribuindo para uma experiência de aprendizagem mais interativa e multimodal.
 
-## <h2 style="color:indigo;"><b>Autor</b></h2> ##
-<p><b>Cleide da Silva</b><br>
- Publicado em Junho de 2026</p>
+## Acesso ao Projeto no NotebookLM
+O caderno temático desenvolvido durante este projeto está disponível para consulta pública no NotebookLM:
+
+🔗 [Acessar Projeto no NotebookLM](COLE_AQUI_O_LINK)
+
+## Autor
+**Cleide da Silva**  
+Publicado em junho de 2026.
+
