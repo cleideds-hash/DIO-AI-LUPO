@@ -27,6 +27,9 @@ As fontes utilizadas foram:
 - Scrum Guide 2020, referência oficial do framework Scrum.
 - Evidence-Based Management (EBM) Guide, voltado à gestão baseada em evidências e geração de valor.
 
+- [SWEBOK v4](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
+- [Scrum Guide 2020](https://scrumguides.org)
+- [Evidence-Based Management Guide](https://www.scrum.org/resources/evidence-based-management-guide)
 
 
 
