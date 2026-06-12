@@ -169,7 +169,9 @@ Ao final do projeto foi possível consolidar conhecimentos sobre Engenharia de S
 Além da construção de um repositório público para fins de portfólio, o projeto resultou na criação de materiais de apoio aos estudos, incluindo resumos estruturados, glossário, prompts reutilizáveis, mapas mentais, infográficos e recursos de áudio, contribuindo para uma experiência de aprendizagem mais interativa e multimodal.
 
 ## Acesso ao Projeto no NotebookLM
-O caderno temático desenvolvido durante este projeto está disponível para consulta pública no NotebookLM:
+Deseja explorar o ambiente original onde este projeto foi desenvolvido?
+No NotebookLM, você poderá navegar pelo caderno temático "DIO - AI Lupo - Aplicada à Engenharia de Software" e conhecer na prática como os recursos de Inteligência Artificial foram utilizados para apoiar a aprendizagem em Engenharia de Software.
+Durante a exploração do ambiente, será possível acessar os documentos utilizados como fonte de conhecimento, interagir com o chat, experimentar diferentes estratégias de prompting e consultar os recursos gerados ao longo do projeto, incluindo mapas mentais, infográficos, resumos e conteúdos em áudio.
 
 🔗 [Acessar Projeto no NotebookLM](https://notebooklm.google.com/notebook/49f6d679-4ef5-4dca-b4eb-f5a601359439)
 
