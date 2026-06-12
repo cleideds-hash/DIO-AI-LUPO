@@ -94,25 +94,17 @@ O Scrum é um framework ágil utilizado para desenvolver, entregar e sustentar p
 O Scrum Guide 2020 é a principal referência para a aplicação do framework, descrevendo seus papéis, eventos, artefatos e compromissos, além dos princípios que orientam sua utilização.
 O Scrum é estruturado em três papéis (Product Owner, Scrum Master e Developers), cinco eventos (Sprint, Planning, Daily Scrum, Review e Retrospective) e três artefatos (Product Backlog, Sprint Backlog e Increment).
 Sua principal contribuição é promover transparência, inspeção e adaptação contínua, favorecendo a colaboração entre equipes e a entrega frequente de valor aos usuários e stakeholders.
-
- 
-- **EBM** → métricas e valor baseado em evidências.
--  
+  
 ### Engenharia de Software (SWEBOK v4)
 A Engenharia de Software é a disciplina responsável pela aplicação sistemática de princípios, métodos e ferramentas para especificação, desenvolvimento, testes, implantação, operação e manutenção de software.
 O SWEBOK v4 (Software Engineering Body of Knowledge) é uma referência internacional que organiza e descreve as principais áreas de conhecimento da Engenharia de Software, abrangendo temas como requisitos, projeto de software, construção, testes, qualidade, manutenção, segurança e operações.
-
-
 Sua principal contribuição é fornecer uma visão estruturada das práticas, processos e conhecimentos necessários para o desenvolvimento de software com qualidade, confiabilidade e alinhamento às necessidades dos usuários e das organizações.
-- 
-A Engenharia de Software é a disciplina responsável pela aplicação sistemática de princípios, métodos e ferramentas para especificação, desenvolvimento, testes, implantação, operação e manutenção de software.
-O SWEBOK v4 organiza o conhecimento da área em diferentes domínios, abrangendo temas como requisitos, projeto de software, construção, testes, qualidade, manutenção, segurança e operações.
-Sua principal contribuição é fornecer uma visão estruturada das práticas e conhecimentos necessários para o desenvolvimento de software de qualidade.
 
-
-Sua principal contribuição é fornecer uma visão estruturada das práticas e conhecimentos necessários para o desenvolvimento de software de qualidade.
-- 
-- **IA** → suporte inteligente para análise e organização.  
+### Evidence-Based Management (EBM Guide)
+O Evidence-Based Management (EBM) é uma abordagem que utiliza evidências e métricas para apoiar a tomada de decisões e a melhoria contínua nas organizações.
+O EBM Guide é a principal referência sobre o tema, apresentando conceitos, práticas e indicadores que auxiliam equipes e organizações a avaliar resultados, identificar oportunidades de melhoria e alinhar suas iniciativas aos objetivos estratégicos.
+O EBM incentiva a utilização de dados concretos para orientar decisões, reduzindo a dependência de opiniões, percepções ou suposições. Sua aplicação está fundamentada no empirismo, por meio da observação, experimentação e aprendizado contínuo.
+Sua principal contribuição é promover a geração de valor baseada em evidências, permitindo que organizações mensurem resultados, acompanhem sua evolução e direcionem esforços para iniciativas que realmente gerem impacto para clientes e negócios.
 
 ## Glossário
 - **Prompt**  
@@ -122,25 +114,32 @@ Sua principal contribuição é fornecer uma visão estruturada das práticas e 
   Lista priorizada de itens de trabalho que representam funcionalidades, melhorias ou correções a serem desenvolvidas em um produto.
   
 - **EBM (Evidence-Based Management)**  
-  Framework criado pela Scrum.org que ajuda organizações a medir e maximizar o valor entregue por produtos e serviços. Baseia-se em evidências e métricas para orientar decisões estratégicas.
+  Abordagem criado pela Scrum.org que ajuda organizações a medir e maximizar o valor entregue por produtos e serviços. Baseia-se em evidências e métricas para orientar decisões estratégicas.
 
 - **SWEBOK (Software Engineering Body of Knowledge)**  
-  Conhecimento que reúne práticas, conceitos e áreas fundamentais da Engenharia de Software. Serve como referência internacional para profissionais e acadêmicos da área.
+  Guia de referência que reúne práticas, conceitos e áreas fundamentais da Engenharia de Software. Serve como referência internacional para profissionais e acadêmicos da área.
 
 - **Scrum**  
-  Framework ágil para gerenciamento de projetos complexos. Foca em colaboração, ciclos curtos de entrega (sprints) e adaptação contínua.
+  Framework ágil utilizado para desenvolver, entregar e sustentar produtos complexos. Foca em colaboração, ciclos curtos de entrega e adaptação contínua.
 
 - **IA (Inteligência Artificial)**  
   Área da computação que desenvolve sistemas capazes de simular processos de inteligência humana, como aprendizado, raciocínio e tomada de decisão.
-
-- **MindMap Software**  
+ 
+- **Mapa Mental**  
   Mapa mental criado neste projeto para integrar Scrum, EBM, SWEBOK e IA em uma visão única e visual da Engenharia de Software.
 
-- **Infográfico**  
-  Representação visual compacta que conecta os principais conceitos do projeto, facilitando a compreensão rápida.
+ - **Infográfico**  
+  Representação visual que sintetiza e conecta os principais conceitos do projeto, facilitando a compreensão e a consulta rápida das informações.
 
 - **Recursos de Áudio**  
-    Materiais sonoros (**Podcast**) nos quais foi criada uma conversa entre duas vozes que complementam o aprendizado, permitindo absorver os conceitos de forma multimodal.
+  Materiais sonoros gerados com apoio da Inteligência Artificial, nos quais uma conversa entre duas vozes apresenta e complementa os conceitos estudados, promovendo uma experiência de aprendizagem multimodal.
+
+- **NotebookLM**  
+  Ferramenta desenvolvida pelo Google que utiliza Inteligência Artificial para apoiar estudos, organização do conhecimento, geração de resumos, mapas mentais, infográficos e interações baseadas em fontes selecionadas pelo usuário.
+
+- **Empirismo**  
+  Princípio baseado na observação, experimentação e aprendizado contínuo, amplamente utilizado no Scrum e no Evidence-Based Management para apoiar a tomada de decisões.
+  
 
 ## Conjunto de Prompts Reutilizáveis
  Coleção de prompts otimizados para gerar novos conteúdos, resumos e explicações de forma consistente.
